@@ -44,6 +44,10 @@ htmlcov/
 # mypy
 .mypy_cache/
 
+.codex_tmp/
+error.txt
 frontend/.next/
 frontend/node_modules/
 frontend/tsconfig.tsbuildinfo
+
+
