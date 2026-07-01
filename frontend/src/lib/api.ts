@@ -4,7 +4,7 @@
 
 import axios, { type AxiosError, type InternalAxiosRequestConfig } from "axios";
 
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api/v1";
+const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://35.175.195.44:8000/api/v1";
 
 const api = axios.create({
   baseURL: API_BASE,
