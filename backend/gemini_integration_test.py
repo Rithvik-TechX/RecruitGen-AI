@@ -127,8 +127,8 @@ except Exception as exc:
 header(3, "Test Resume Parsing (parse_resume_with_gemini)")
 
 SAMPLE_RESUME = """
-RITHVIK SHARMA
-Email: rithvik.sharma@email.com | Phone: +91 98765 43210
+RITHVIK 
+Email: rithvik.@email.com | Phone: +91 9550804835
 LinkedIn: linkedin.com/in/rithviksharma | GitHub: github.com/rithvik
 
 SUMMARY
